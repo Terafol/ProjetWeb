@@ -1,0 +1,81 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id               Int       @id @default(autoincrement())
+  name             String
+  email            String    @unique
+  password         String
+  createdAt        DateTime  @default(now())
+  emailConfirmed   Boolean   @default(false)
+  emailToken       String?   @unique
+  resetToken       String?   @unique
+  resetTokenExpiry DateTime?
+
+  favorites    Favorite[] // relation inverse
+  reservations Reservation[] // relation inverse
+}
+
+model Voyage {
+  id          Int      @id @default(autoincrement())
+  title       String
+  country     String
+  city        String
+  price       Float
+  type        String
+  description String
+  imageUrl    String
+  isPromo     Boolean  @default(false)
+  createdAt   DateTime @default(now())
+  latitude  Float?
+  longitude Float?
+
+
+  images       Image[]
+  favorites    Favorite[]
+  reservations Reservation[]
+}
+
+model Image {
+  id        Int     @id @default(autoincrement())
+  url       String
+  voyageId  Int
+  voyage    Voyage  @relation(fields: [voyageId], references: [id])
+}
+
+
+model Favorite {
+  id        Int      @id @default(autoincrement())
+  userId    Int
+  voyageId  Int
+  createdAt DateTime @default(now())
+
+  user   User   @relation(fields: [userId], references: [id])
+  voyage Voyage @relation(fields: [voyageId], references: [id])
+
+  @@unique([userId, voyageId])
+}
+
+model Reservation {
+  id        Int      @id @default(autoincrement())
+  userId    Int
+  voyageId  Int
+  date      DateTime
+  people    Int
+  createdAt DateTime @default(now())
+
+  user   User   @relation(fields: [userId], references: [id])
+  voyage Voyage @relation(fields: [voyageId], references: [id])
+}

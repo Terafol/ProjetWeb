@@ -1,0 +1,430 @@
+[
+  {
+    "title": "Voyage à Martins-sur-Mer",
+    "description": "Sérieux moyen histoire inutile feu dix aussitôt. Taille frère remonter route monter.",
+    "country": "Portugal",
+    "city": "Martins-sur-Mer",
+    "price": 1749,
+    "imageUrl": "http://localhost:5000/uploads/1.jpg",
+    
+    "type": "montagne",
+    "isPromo": true,
+    "latitude": 31.823643,
+    "longitude": 14.130894,
+    "createdAt": "2025-05-01T15:35:42.000000Z"
+  },
+  {
+    "title": "Voyage à Potier",
+    "description": "Peine rouge poids puissant. Défendre larme suivant sec intention. Coucher ceci supposer oncle.",
+    "country": "Mexique",
+    "city": "Potier",
+    "price": 264,
+    "imageUrl": "http://localhost:5000/uploads/1.jpg",
+    
+
+    "type": "montagne",
+    "isPromo": true,
+    "latitude": 66.19086,
+    "longitude": -71.869853,
+    "createdAt": "2025-04-20T21:01:53.000000Z"
+  },
+  {
+    "title": "Voyage à Baudry",
+    "description": "Désormais titre lorsque condamner écouter chance derrière deux. Mille désigner sauter clef.",
+    "country": "Brésil",
+    "city": "Baudry",
+    "price": 1507,
+    "imageUrl": "http://localhost:5000/uploads/1.jpg",
+    
+
+    "type": "culture",
+    "isPromo": true,
+    "latitude": 60.463812,
+    "longitude": -147.362901,
+    "createdAt": "2025-05-27T17:42:36.000000Z"
+  },
+  {
+    "title": "Voyage à Thomasboeuf",
+    "description": "Découvrir tenter décrire. Marcher regard erreur position époque usage. Aide vivant sable sorte un madame.",
+    "country": "Maroc",
+    "city": "Thomasboeuf",
+    "price": 990,
+    "imageUrl": "http://localhost:5000/uploads/1.jpg",
+    
+
+    "type": "culture",
+    "isPromo": true,
+    "latitude": 13.054436,
+    "longitude": 53.589098,
+    "createdAt": "2025-04-17T20:14:37.000000Z"
+  },
+  {
+    "title": "Voyage à Rivière",
+    "description": "Devoir certain poste été. Regarder étoile barbe grand.",
+    "country": "Grèce",
+    "city": "Rivière",
+    "price": 206,
+    "imageUrl": "http://localhost:5000/uploads/3.jpg",
+    
+
+    "type": "plage",
+    "isPromo": true,
+    "latitude": 59.925004,
+    "longitude": 148.061351,
+    "createdAt": "2025-05-01T07:34:35.000000Z"
+  },
+  {
+    "title": "Voyage à Collet",
+    "description": "Inventer vide grandir six assez. Vision faute lutte saisir. Prêter court montrer remplacer.",
+    "country": "Thaïlande",
+    "city": "Collet",
+    "price": 1371,
+    "imageUrl": "http://localhost:5000/uploads/2.jpg",
+    
+
+    "type": "culture",
+    "isPromo": true,
+    "latitude": 61.611636,
+    "longitude": -27.857877,
+    "createdAt": "2025-05-18T01:47:08.000000Z"
+  },
+  {
+    "title": "Voyage à Launaynec",
+    "description": "Fruit quel appel possible à.",
+    "country": "Portugal",
+    "city": "Launaynec",
+    "price": 1826,
+    "imageUrl": "http://localhost:5000/uploads/3.jpg",
+    
+
+    "type": "culture",
+    "isPromo": true,
+    "latitude": 89.768314,
+    "longitude": -97.145919,
+    "createdAt": "2025-05-18T09:19:44.000000Z"
+  },
+  {
+    "title": "Voyage à Lucas",
+    "description": "Train école auquel joie déposer doucement doigt. Jardin dieu fumer.",
+    "country": "Grèce",
+    "city": "Lucas",
+    "price": 1963,
+    "imageUrl": "http://localhost:5000/uploads/1.jpg",
+    
+
+    "type": "plage",
+    "isPromo": true,
+    "latitude": -52.309983,
+    "longitude": -19.528023,
+    "createdAt": "2025-05-23T14:39:44.000000Z"
+  },
+  {
+    "title": "Voyage à Paul",
+    "description": "Ce entrée tache. Pour bureau eh inconnu lors.",
+    "country": "Mexique",
+    "city": "Paul",
+    "price": 1849,
+    "imageUrl": "http://localhost:5000/uploads/4.jpg",
+    
+ 
+    "type": "culture",
+    "isPromo": true,
+    "latitude": 77.055889,
+    "longitude": -14.340401,
+    "createdAt": "2025-05-23T18:26:40.000000Z"
+  },
+  {
+    "title": "Voyage à Jean-sur-Mer",
+    "description": "Bientôt spectacle comprendre charge fatigue. Titre valeur complètement ton menacer.",
+    "country": "Thaïlande",
+    "city": "Jean-sur-Mer",
+    "price": 2162,
+    "imageUrl": "http://localhost:5000/uploads/1.jpg",
+    
+    "type": "plage",
+    "isPromo": true,
+    "latitude": -28.7585,
+    "longitude": 88.393943,
+    "createdAt": "2025-05-08T11:36:26.000000Z"
+  },
+  {
+    "title": "Voyage à Garnier",
+    "description": "Inutile moins croix grand nation occuper bête.",
+    "country": "Espagne",
+    "city": "Garnier",
+    "price": 693,
+    "imageUrl": "http://localhost:5000/uploads/3.jpg",
+    
+    "type": "montagne",
+    "isPromo": true,
+    "latitude": 53.851626,
+    "longitude": 39.157162,
+    "createdAt": "2025-05-24T06:42:37.000000Z"
+  },
+  {
+    "title": "Voyage à Sanchez",
+    "description": "An campagne contenir rêve reconnaître lèvre. Étroit ton mien conclure coin point conseil.",
+    "country": "Thaïlande",
+    "city": "Sanchez",
+    "price": 687,
+    "imageUrl": "http://localhost:5000/uploads/2.jpg",
+    
+    "type": "culture",
+    "isPromo": true,
+    "latitude": 57.889121,
+    "longitude": -154.261863,
+    "createdAt": "2025-05-20T20:08:25.000000Z"
+  },
+  {
+    "title": "Voyage à Langlois",
+    "description": "Couvrir serrer accompagner. Il cela folie heureux vif son mal discours. Entier tuer quinze espèce race.",
+    "country": "Portugal",
+    "city": "Langlois",
+    "price": 1788,
+    "imageUrl": "http://localhost:5000/uploads/4.jpg",
+    
+    "type": "plage",
+    "isPromo": true,
+    "latitude": -55.84323,
+    "longitude": -100.238445,
+    "createdAt": "2025-05-24T09:22:56.000000Z"
+  },
+  {
+    "title": "Voyage à Michel",
+    "description": "Cerveau mesure nom discuter charge annoncer. Joue vendre curieux reprendre. Falloir front appel plaine début brûler.",
+    "country": "Portugal",
+    "city": "Michel",
+    "price": 2483,
+    "imageUrl": "http://localhost:5000/uploads/2.jpg",
+    
+    "type": "plage",
+    "isPromo": true,
+    "latitude": -75.216444,
+    "longitude": -79.016605,
+    "createdAt": "2025-05-21T02:01:31.000000Z"
+  },
+  {
+    "title": "Voyage à Saint Manon",
+    "description": "Supposer ci bataille banc détacher. Répéter fort mien cheval. Neuf train si dont triste. Corps paysan mot arrivée sauver te moins.",
+    "country": "France",
+    "city": "Saint Manon",
+    "price": 2363,
+    "imageUrl": "http://localhost:5000/uploads/3.jpg",
+    
+    "type": "plage",
+    "isPromo": true,
+    "latitude": 72.833324,
+    "longitude": -81.837903,
+    "createdAt": "2025-04-10T15:00:23.000000Z"
+  },
+  {
+    "title": "Voyage à Saint Élise-les-Bains",
+    "description": "Peser combat peser parcourir. Peur fuir joindre personne départ flot porter. Même vite haut vent. Y éprouver fin monde fait.",
+    "country": "Brésil",
+    "city": "Saint Élise-les-Bains",
+    "price": 2296,
+    "imageUrl": "http://localhost:5000/uploads/2.jpg",
+    
+    "type": "plage",
+    "isPromo": false,
+    "latitude": 86.844012,
+    "longitude": -91.252252,
+    "createdAt": "2025-05-14T18:09:03.000000Z"
+  },
+  {
+    "title": "Voyage à Rocher",
+    "description": "Oeil neuf finir entre conscience. Briser fatigue sûr continuer yeux propos. D'Abord pouvoir mensonge année.",
+    "country": "Portugal",
+    "city": "Rocher",
+    "price": 535,
+    "imageUrl": "http://localhost:5000/uploads/4.jpg",
+    
+    "type": "culture",
+    "isPromo": false,
+    "latitude": -7.299432,
+    "longitude": 161.85476,
+    "createdAt": "2025-04-13T13:04:52.000000Z"
+  },
+  {
+    "title": "Voyage à Germain",
+    "description": "Décider étudier céder condition petit. Oublier oui désirer drame puisque toile. Aller livrer appel sueur côté dresser principe.",
+    "country": "France",
+    "city": "Germain",
+    "price": 1377,
+    "imageUrl": "http://localhost:5000/uploads/3.jpg",
+    
+    "type": "plage",
+    "isPromo": false,
+    "latitude": 69.759493,
+    "longitude": -154.095461,
+    "createdAt": "2025-05-07T05:18:48.000000Z"
+  },
+  {
+    "title": "Voyage à Legrosnec",
+    "description": "Rendre souffler confondre. Abri public minute froid. Autre bataille vouloir sauter causer circonstance sommet.",
+    "country": "Espagne",
+    "city": "Legrosnec",
+    "price": 1012,
+    "imageUrl": "http://localhost:5000/uploads/4.jpg",
+    
+    "type": "montagne",
+    "isPromo": false,
+    "latitude": -72.160108,
+    "longitude": -165.010024,
+    "createdAt": "2025-05-05T19:33:28.000000Z"
+  },
+  {
+    "title": "Voyage à Saint Anaïs-les-Bains",
+    "description": "Du quarante beau sommet droit poésie. Clair tâche boire peu chaise compagnon. Nature ruine sang agiter perdu combat.",
+    "country": "Maroc",
+    "city": "Saint Anaïs-les-Bains",
+    "price": 1924,
+    "imageUrl": "http://localhost:5000/uploads/3.jpg",
+    
+    "type": "plage",
+    "isPromo": false,
+    "latitude": -14.38401,
+    "longitude": -110.641182,
+    "createdAt": "2025-04-28T21:40:38.000000Z"
+  },
+  {
+    "title": "Voyage à Roussel",
+    "description": "Jeu existence frère. Nous paysage sable mensonge. Lit réfléchir guère avance puisque sorte désormais.",
+    "country": "Mexique",
+    "city": "Roussel",
+    "price": 2357,
+    "imageUrl": "http://localhost:5000/uploads/1.jpg",
+    
+    "type": "culture",
+    "isPromo": false,
+    "latitude": -53.13287,
+    "longitude": 88.709225,
+    "createdAt": "2025-04-16T09:52:19.000000Z"
+  },
+  {
+    "title": "Voyage à Giraud",
+    "description": "Résistance dominer plus pencher solitude ruine. Accuser fin corde aile chaîne voilà prendre.",
+    "country": "Grèce",
+    "city": "Giraud",
+    "price": 672,
+    "imageUrl": "http://localhost:5000/uploads/3.jpg",
+    
+    "type": "culture",
+    "isPromo": false,
+    "latitude": 14.114784,
+    "longitude": -132.903384,
+    "createdAt": "2025-05-02T14:57:52.000000Z"
+  },
+  {
+    "title": "Voyage à Besson",
+    "description": "Corps aussi muet avouer. Métier victime école absolu chacun.",
+    "country": "Brésil",
+    "city": "Besson",
+    "price": 1612,
+    "imageUrl": "http://localhost:5000/uploads/2.jpg",
+    
+    "type": "montagne",
+    "isPromo": false,
+    "latitude": -3.454557,
+    "longitude": 68.50287,
+    "createdAt": "2025-04-28T03:07:34.000000Z"
+  },
+  {
+    "title": "Voyage à Lopez-sur-Raymond",
+    "description": "Ou étouffer soumettre porter trace nommer. Sur écrire vaste rêve somme présenter père.",
+    "country": "Thaïlande",
+    "city": "Lopez-sur-Raymond",
+    "price": 676,
+    "imageUrl": "http://localhost:5000/uploads/4.jpg",
+    
+    "type": "culture",
+    "isPromo": false,
+    "latitude": 63.993491,
+    "longitude": -62.041877,
+    "createdAt": "2025-04-27T11:47:57.000000Z"
+  },
+  {
+    "title": "Voyage à Guilbert-sur-Mer",
+    "description": "Trésor appartenir court donner tombe campagne. Mais angoisse poète contre aile chaîne accomplir marche. Relation sombre minute effacer inquiétude haut. Action emporter autre violence droit.",
+    "country": "Italie",
+    "city": "Guilbert-sur-Mer",
+    "price": 864,
+    "imageUrl": "http://localhost:5000/uploads/1.jpg",
+    
+    "type": "plage",
+    "isPromo": false,
+    "latitude": 8.854021,
+    "longitude": 86.678066,
+    "createdAt": "2025-05-31T02:28:22.000000Z"
+  },
+  {
+    "title": "Voyage à Camus-sur-Roger",
+    "description": "Auteur jardin suite général. Vers troisième partie reprendre delà.",
+    "country": "Espagne",
+    "city": "Camus-sur-Roger",
+    "price": 1777,
+    "imageUrl": "http://localhost:5000/uploads/4.jpg",
+    
+    "type": "montagne",
+    "isPromo": false,
+    "latitude": 66.302548,
+    "longitude": -166.464299,
+    "createdAt": "2025-04-30T04:25:46.000000Z"
+  },
+  {
+    "title": "Voyage à Alves",
+    "description": "Soin suite état couler vague confier. Rire pendre rire plus.",
+    "country": "Thaïlande",
+    "city": "Alves",
+    "price": 608,
+    "imageUrl": "http://localhost:5000/uploads/4.jpg",
+    
+    "type": "plage",
+    "isPromo": false,
+    "latitude": 32.03719,
+    "longitude": 151.762228,
+    "createdAt": "2025-04-15T10:38:11.000000Z"
+  },
+  {
+    "title": "Voyage à Tessier",
+    "description": "Sortir toujours creuser parcourir énorme question système.",
+    "country": "Canada",
+    "city": "Tessier",
+    "price": 1043,
+    "imageUrl": "http://localhost:5000/uploads/3.jpg",
+    
+    "type": "plage",
+    "isPromo": false,
+    "latitude": -25.860656,
+    "longitude": 138.47075,
+    "createdAt": "2025-05-19T05:51:43.000000Z"
+  },
+  {
+    "title": "Voyage à Valléenec",
+    "description": "Aucun dur figurer réclamer soi dessiner passé présent.",
+    "country": "Maroc",
+    "city": "Valléenec",
+    "price": 1209,
+    "imageUrl": "http://localhost:5000/uploads/2.jpg",
+    
+    "type": "culture",
+    "isPromo": false,
+    "latitude": 61.218881,
+    "longitude": 169.204638,
+    "createdAt": "2025-04-18T23:32:16.000000Z"
+  },
+  {
+    "title": "Voyage à Chauveau",
+    "description": "Jeu gris casser couvrir découvrir vie assurer. Éloigner inventer reprendre.",
+    "country": "Mexique",
+    "city": "Chauveau",
+    "price": 558,
+    "imageUrl": "http://localhost:5000/uploads/1.jpg",
+    
+    "type": "plage",
+    "isPromo": false,
+    "latitude": -70.78851,
+    "longitude": -67.632931,
+    "createdAt": "2025-05-22T04:58:33.000000Z"
+  }
+]
